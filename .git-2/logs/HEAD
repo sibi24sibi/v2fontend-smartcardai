@@ -1,0 +1,72 @@
+0000000000000000000000000000000000000000 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733115615 +0530	clone: from https://github.com/Smartcardai/V2frontend
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733116554 +0530	reset: moving to HEAD
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733116563 +0530	checkout: moving from main to Sibi
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733118931 +0530	checkout: moving from Sibi to main
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733118950 +0530	checkout: moving from main to Sibi
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733120745 +0530	checkout: moving from Sibi to main
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733120759 +0530	checkout: moving from main to Sibi
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733120784 +0530	checkout: moving from Sibi to main
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733120792 +0530	reset: moving to HEAD
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733120803 +0530	checkout: moving from main to Sibi
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733120895 +0530	checkout: moving from Sibi to main
+e4d659202908ba5514822dc5f3dccd1c08595af9 e4d659202908ba5514822dc5f3dccd1c08595af9 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733120919 +0530	checkout: moving from main to sibi
+e4d659202908ba5514822dc5f3dccd1c08595af9 2f67eed3129e75c1ee052a3496ddbda90a85b00a sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733236660 +0530	commit: made changes in attachment folder structure and resizing windows
+2f67eed3129e75c1ee052a3496ddbda90a85b00a f52445b6bc4a5b3df6b5f48e4265af5106d3eee5 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733236720 +0530	commit: made changes in attachment folder structure and resizing windows -2
+f52445b6bc4a5b3df6b5f48e4265af5106d3eee5 40a50a4318aa8f4aabaa137b3d53c51c1704ed3d sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733804347 +0530	commit: fixed rezinng window and filetype icon
+40a50a4318aa8f4aabaa137b3d53c51c1704ed3d 286656f43fbb0b31e07594986066311b69d3014c sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733805137 +0530	commit: fixed rezinng window and filetype icon -2
+286656f43fbb0b31e07594986066311b69d3014c 102a43c81ce43da8f82b339190f7fc0e41b45cd7 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1733989930 +0530	commit: commented private and public route
+102a43c81ce43da8f82b339190f7fc0e41b45cd7 2549c95533d81f93a4fbef324d47876ac48461a4 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1734081330 +0530	commit: fixed download button and flex wrap
+2549c95533d81f93a4fbef324d47876ac48461a4 9401998043c9d6e4e24e588dfead08ceffff8339 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1734508896 +0530	commit: fixed download button and others like eda and etl
+9401998043c9d6e4e24e588dfead08ceffff8339 24de7b58033d73abb482ed26ddb6395d2135e28c sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1734510141 +0530	commit: fixed download button and others like eda and etl
+24de7b58033d73abb482ed26ddb6395d2135e28c 1add454ee3b22c6708eee209038a6014b10ccc7d sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1734679441 +0530	commit: fixed api connector and db connector ui
+1add454ee3b22c6708eee209038a6014b10ccc7d d029f221f91f6c6042aa1460e73d659bf76d8525 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1734945185 +0530	commit: fixed accordmation and comment out somethings
+d029f221f91f6c6042aa1460e73d659bf76d8525 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735030909 +0530	commit: fixed accordmation and comment out somethings
+1935be371534bd8241e53db8b48e264389543fe8 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735306669 +0530	reset: moving to HEAD
+1935be371534bd8241e53db8b48e264389543fe8 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735306671 +0530	checkout: moving from sibi to Bhavesh
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735306818 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735307056 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735309508 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735364762 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735364854 +0530	checkout: moving from Bhavesh to sibi
+1935be371534bd8241e53db8b48e264389543fe8 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735364867 +0530	checkout: moving from sibi to Bhavesh
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735365854 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735365912 +0530	checkout: moving from Bhavesh to sibi
+1935be371534bd8241e53db8b48e264389543fe8 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735365932 +0530	checkout: moving from sibi to Bhavesh
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735365981 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735366559 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735366566 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735366575 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735366583 +0530	checkout: moving from Bhavesh to sibi
+1935be371534bd8241e53db8b48e264389543fe8 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735366598 +0530	checkout: moving from sibi to Bhavesh
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735366683 +0530	reset: moving to HEAD
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735366695 +0530	checkout: moving from Bhavesh to sibi
+1935be371534bd8241e53db8b48e264389543fe8 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735366902 +0530	checkout: moving from sibi to Bhavesh
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735367019 +0530	checkout: moving from Bhavesh to sibi
+1935be371534bd8241e53db8b48e264389543fe8 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735368177 +0530	checkout: moving from sibi to Bhavesh
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735373137 +0530	checkout: moving from Bhavesh to sibi
+1935be371534bd8241e53db8b48e264389543fe8 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735374038 +0530	checkout: moving from sibi to Bhavesh
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735374084 +0530	checkout: moving from Bhavesh to sibi
+1935be371534bd8241e53db8b48e264389543fe8 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735374754 +0530	checkout: moving from sibi to sibi
+1935be371534bd8241e53db8b48e264389543fe8 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735374779 +0530	reset: moving to HEAD
+1935be371534bd8241e53db8b48e264389543fe8 8a08a2b73f647a7947ff072eb7b98c049d5d4949 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735374784 +0530	checkout: moving from sibi to Bhavesh
+8a08a2b73f647a7947ff072eb7b98c049d5d4949 3d41263fc8a2392cf97c10822a562eff76843666 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735375139 +0530	pull: Fast-forward
+3d41263fc8a2392cf97c10822a562eff76843666 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735375318 +0530	checkout: moving from Bhavesh to sibi
+1935be371534bd8241e53db8b48e264389543fe8 1935be371534bd8241e53db8b48e264389543fe8 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735453016 +0530	reset: moving to HEAD
+1935be371534bd8241e53db8b48e264389543fe8 3d41263fc8a2392cf97c10822a562eff76843666 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735453020 +0530	checkout: moving from sibi to Bhavesh
+3d41263fc8a2392cf97c10822a562eff76843666 9d69f3c326cf692e5447896db5c608e6f6df2591 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735453144 +0530	pull: Fast-forward
+9d69f3c326cf692e5447896db5c608e6f6df2591 9d69f3c326cf692e5447896db5c608e6f6df2591 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735621980 +0530	reset: moving to HEAD
+9d69f3c326cf692e5447896db5c608e6f6df2591 5d36f9de923858f04d485ea97ce71c2a76933fdb sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735621992 +0530	pull: Fast-forward
+5d36f9de923858f04d485ea97ce71c2a76933fdb 5d36f9de923858f04d485ea97ce71c2a76933fdb sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735887198 +0530	checkout: moving from Bhavesh to sibi-2
+5d36f9de923858f04d485ea97ce71c2a76933fdb b5bbc906baf27238ce693ae6e02735fb0de259b2 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1735887242 +0530	commit: unfinished file preview
+b5bbc906baf27238ce693ae6e02735fb0de259b2 0bcc4f40e067e060887b3b500e252d84d12afe19 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1736234821 +0530	commit: added resize window
+0bcc4f40e067e060887b3b500e252d84d12afe19 e6d0f76d5b8707c194d6090166fe9ccd1ff4bbbe sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1736235037 +0530	pull origin sibi-2: Merge made by the 'ort' strategy.
+e6d0f76d5b8707c194d6090166fe9ccd1ff4bbbe 0bcef64e7a2ee15e9887f65e06fc38bd27f191f7 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1736312815 +0530	commit: fixed name of button small change
+0bcef64e7a2ee15e9887f65e06fc38bd27f191f7 a782c22b77067625790ddd28a932c3f2be3e22d1 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1737083361 +0530	commit: edit dashboard sidebar
+a782c22b77067625790ddd28a932c3f2be3e22d1 a782c22b77067625790ddd28a932c3f2be3e22d1 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1737089933 +0530	reset: moving to HEAD
+a782c22b77067625790ddd28a932c3f2be3e22d1 5d36f9de923858f04d485ea97ce71c2a76933fdb sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1737089944 +0530	checkout: moving from sibi-2 to Bhavesh
+5d36f9de923858f04d485ea97ce71c2a76933fdb 342dfb2b7d7b68783dbd54a135ffa741c70b2995 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1737090168 +0530	pull: Fast-forward
+342dfb2b7d7b68783dbd54a135ffa741c70b2995 a782c22b77067625790ddd28a932c3f2be3e22d1 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1737090378 +0530	checkout: moving from Bhavesh to sibi-2
+a782c22b77067625790ddd28a932c3f2be3e22d1 6fc354d290ecefa27c0d2d8e45f209f28506d228 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1737091243 +0530	commit (merge): updated code after merging both bhavesh and sibi-2
+6fc354d290ecefa27c0d2d8e45f209f28506d228 5049d92e3b75b6f1672fc647511901caed2cd1a1 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1737454044 +0530	commit: after after fixing card in new page
+5049d92e3b75b6f1672fc647511901caed2cd1a1 6c3f2ca6ed33779b2ec403b4055ae5eccac97d00 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1738669638 +0530	commit: added that mysql local backend
+6c3f2ca6ed33779b2ec403b4055ae5eccac97d00 05000996ded0611d9f90fc8ef96cb33605803726 sibi24sibi <116418076+sibi24sibi@users.noreply.github.com> 1738670336 +0530	commit: added that mysql local backend -- after commenting all sidebar
